@@ -7,7 +7,7 @@ import time
 from datetime import datetime, timedelta, timezone
 import aiohttp
 import numpy as np
-
+import pandas as pd
 # ====================== AYARLAR ======================
 TIMEFRAME = '15m'
 RSI_PERIOD = 14
