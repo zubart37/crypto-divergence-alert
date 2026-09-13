@@ -11,8 +11,8 @@ import pandas as pd
 # ====================== AYARLAR ======================
 TIMEFRAME = '15m'
 RSI_PERIOD = 14
-MIN_BARS = 6
-MAX_BARS = 80
+MIN_BARS = 12
+MAX_BARS = 12
 
 MIN_PRICE_PCT = 0.50          # Fiyat farkı min %
 MIN_RSI_DIFF = 3.0            # RSI farkı min
